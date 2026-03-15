@@ -2,7 +2,7 @@
 
 **A defense-in-depth process framework for AI-assisted computational research across multiple disciplines.**
 
-A project by [Raj Jha](https://rajjha.com) · [𝕏](https://x.com/rajjha) · [Projects](https://rajjha.com/projects/) · © Mindhead Holdings LLC
+A project by [Raj Jha](https://rajjha.com) · [𝕏](https://x.com/rajjha) · [Projects](https://rajjha.com/projects/) · © Mindhead Holdings LLC licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 Built for independent researchers who use AI language models as their research team — and who understand that LLMs are brilliant, prolific, and systematically untrustworthy.
 
